@@ -1,0 +1,7 @@
+X=Msgbox("Hello 'add persons name here'",1+16,"Hello")
+X=Msgbox("You are being monitored by the Alpha Task Force of Sector I",1+32,"Info")
+X=Msgbox("You have 10 Minutes to evacuate the primisis of this property",1+32,"Info")
+X=Msgbox("Walk 3 blocks and wait.",1+32,"Instructions")
+X=Msgbox("A Black sedan will arrive. You must wave the car down and say 'Im here on orders from Blacklist' and get in the back seat",1+32,"Instructions")
+X=Msgbox("If you are actually beliving this then you are dumb",1+32,"LOL")
+X=Msgbox("You Just Got Pranked",1+32,"HAHA")
